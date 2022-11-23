@@ -8,7 +8,7 @@ Avobo is a game where the aim is to guess which one is not a bomb</p>
 - `Python3`
 ## How to use
 - `git clone https://github.com/wahyunaa/avobo`
-- `cd avobo/avobo`
+- `cd Avobo/avobo`
 - `python avobo.py`
 
 
