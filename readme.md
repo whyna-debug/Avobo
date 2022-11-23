@@ -1,4 +1,4 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![avobo]()
 
 ## Avobo
 Avobo is a game where the aim is to guess which one is not a bomb</p>
