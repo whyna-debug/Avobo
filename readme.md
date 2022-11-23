@@ -1,4 +1,4 @@
-![avobo]()
+![avobo](https://github.com/Wahyunaa/avobo/blob/main/zNf_assets/avobo.png)
 
 ## Avobo
 Avobo is a game where the aim is to guess which one is not a bomb</p>
