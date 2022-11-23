@@ -6,9 +6,8 @@ Avobo is a game where the aim is to guess which one is not a bomb</p>
 
 ### Required
 - `Python3`
-- `git`
 ### How to use
-- ```git clone https://github.com/wahyunaa/avobo```
-- ```cd avobo/avobo```
-- ```python avobo.py```
+- `git clone https://github.com/wahyunaa/avobo`
+- `cd avobo/avobo`
+- `python avobo.py`
 > **_NOTE:_** Not all terminals support showing emotes regularly
