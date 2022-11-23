@@ -5,7 +5,7 @@
 <br />
 <br />
 <h3>Required</h3>
-  - Python3
+  `Python3`
 <h3>How to use</h3>
 <br />
 <br />
