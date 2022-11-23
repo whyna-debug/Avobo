@@ -11,5 +11,5 @@ Avobo is a game where the aim is to guess which one is not a bomb</p>
 - `cd Avobo/avobo`
 - `python avobo.py`
 
-
+<br/>
 > **_NOTE:_** Not all terminals support showing emotes regularly
