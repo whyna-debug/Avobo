@@ -1,10 +1,11 @@
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Avobo
 Avobo is a game where the aim is to guess which one is not a bomb</p>
 
 
 ## Required
-  -`Python3`
+  `Python3`
 ## How to use
 
 
