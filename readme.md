@@ -1,6 +1,6 @@
 <a href="https://github.com/wahyunaa/avobo"><img src="zNf_assets/avobo.png" alt="avobo" width="320px"/></a>
 <br />
-## Avobo
+Avobo
 <p>Avobo is a game where the aim is to guess which one is not a bomb</p>
 <br />
 <br />
