@@ -4,7 +4,7 @@
 <p>Avobo is a game where the aim is to guess which one is not a bomb</p>
 <br />
 <br />
-## Required
+<h3>Required</h3>
   `Python3`
 <h3>How to use</h3>
 <br />
