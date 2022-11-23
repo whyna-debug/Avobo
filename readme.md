@@ -1,4 +1,4 @@
-<img src="https://github.com/Wahyunaa/avobo/blob/main/zNf_assets/avobo.png" width="200"/>
+<img src="https://github.com/Wahyunaa/avobo/blob/main/zNf_assets/avobo.png" width="250"/>
 
 ## Avobo
 Avobo is a game where the aim is to guess which one is not a bomb</p>
