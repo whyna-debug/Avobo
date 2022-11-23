@@ -9,5 +9,4 @@
 <h3>How to use</h3>
 <br />
 <br />
-> **note**
-> Not all terminals support showing emotes regularly
+> **_NOTE:_** Not all terminals support showing emotes regularly
