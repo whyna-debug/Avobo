@@ -1,8 +1,7 @@
 <a href="https://github.com/wahyunaa/avobo"><img src="https://github.com/Wahyunaa/avobo/blob/main/zNf_assets/avobo.png" width="250"/></a>
 
 # Avobo
-Avobo is a game where the aim is to guess which one is not a bomb</p>
-
+Avobo is a game where the aim is to guess which one is not a bomb
 
 ## Required
 - `Python3`
