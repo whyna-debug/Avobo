@@ -6,7 +6,7 @@ import os
 import items
 import r
 
-if items:
+if True:
     gt_items = items.r_items
     vXf = items.vFo
     bomb = items.bomb
@@ -87,5 +87,3 @@ if items:
         else:
             print("Enter the number you want to choose!\n\n{}\n".format(lc()))
     input("\n\n")
-else:
-    print("items.py does not exist")
