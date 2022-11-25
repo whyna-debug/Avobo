@@ -6,7 +6,7 @@ import os
 import items
 import r
 
-if True:
+if 1:
     gt_items = items.r_items
     vXf = items.vFo
     bomb = items.bomb
@@ -63,7 +63,7 @@ if True:
                 nm = int(nm)
                 if nm in iNm:
                     system_cls()
-                    print("number 2 has been chosen!\nplease choose another number\n".format(nm))
+                    print("number {} has been chosen!\nplease choose another number\n".format(nm))
                     print(lc(),"\n")
                     continue
                 else:
