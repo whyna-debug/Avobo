@@ -6,9 +6,10 @@ import os
 import items
 import r
 
-if 1:
-    gt_items = items.r_items
-    vXf = items.vFo
+
+gt_items = items.r_items
+vXf = items.vFo
+if items.bomb:
     bomb = items.bomb
     bn,vxF = True,0
     
